@@ -44,3 +44,33 @@ var whatIsMyFavColor = function () {
 var doSomething = function () {
 	console.log("do Something!!!");
 }
+
+
+
+//If-Else Statements
+
+if ('male' == 'male') {
+	alert('male');
+};
+
+
+var number1 = 10;
+var number2 = 100;
+
+if (number1 < number2) {
+	alert('true!!!');
+} else {
+	alert('false!!!');
+}
+
+
+var name1 = 'Rich';
+var name2 = 'Bob';
+
+if (name1 == 'Rich') {
+	alert('true 1');
+} else {
+	alert('true 2');
+} else {
+	alert('false!!!');
+}

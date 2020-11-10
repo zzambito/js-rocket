@@ -69,8 +69,13 @@ var name2 = 'Bob';
 
 if (name1 == 'Rich') {
 	alert('true 1');
-} else {
+} else if (name2 == 'Rich') {
 	alert('true 2');
 } else {
 	alert('false!!!');
 }
+
+// = > set value
+// == > 'equals'
+// && > 'and'
+// || > 'or'
